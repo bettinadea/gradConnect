@@ -1,22 +1,22 @@
 {
 	"professors": [
 		{
-			"name": "Doug Engelbart"
+			"name": "David Kirsh"
 		},
 		{
-			"name": "Ivan Sutherland"
+			"name": "Scott Klemmer"
 		},
 		{
-			"name": "Lucy Suchman"
+			"name": "Douglas A Nitz"
 		},
 		{
-			"name": "Vannevar Bush"
+			"name": "Jaime Pineda"
 		},
 		{
-			"name": "Grace Hopper"
+			"name": "Bradley Voytek"
 		},
 		{
-			"name": "Allen Newell"
+			"name": "Angela J. Yu"
 		}
 	]
 }
