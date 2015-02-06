@@ -8,7 +8,7 @@
     "url": "https://github.com/bettinadea/gradConnect"
   },
   "license": "hci",
-  "main": "server.js",
+
   "dependencies": {
     "express": "3.x"
   },
