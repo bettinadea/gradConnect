@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+	font-style: italic;
+	font-size: 100px;
+}
+
+ul {
+	width: 20%;
+	list-style-type: none;
+	text-align: center;
+	font-size: 20px;
+	padding: 0;
+}
+
+body {
+     padding: 20px;
+     background: url("http://www.bhmpics.com/wallpapers/blue_mountains_lake_landscape-1920x1200.jpg");
+     opacity: 1;
+}

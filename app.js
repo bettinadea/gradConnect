@@ -8,7 +8,12 @@ var http = require('http');
 var path = require('path');
 var handlebars = require('express3-handlebars')
 
+var index = require('./routes/index');
+var clinicalcognitionchoice = require('./routes/clinicalcognitionchoice');
 var clinicalprofessors = require('./routes/clinicalprofessors');
+var clinicalgrads = require('./routes/clinicalgrads');
+
+
 // Example route
 // var user = require('./routes/user');
 
@@ -35,7 +40,10 @@ if ('development' == app.get('env')) {
 }
 
 // Add routes here
+app.get('/', index.view);
+app.get('/clinicalcognitionchoice', clinicalcognitionchoice.view);
 app.get('/clinicalprofessors', clinicalprofessors.view);
+app.get('/clinicalgrads', clinicalgrads.view);
 // Example route
 // app.get('/users', user.list);
 
