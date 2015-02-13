@@ -1,33 +1,33 @@
 {
 	"professors": [
 		{
-			"name": "David Kirsh",
-			"description": "Has awesome pet mice",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/972px-Douglas_Engelbart_in_2008.jpg"			
+			"name": "Scott Klemmer",
+			"description": "Associate Professor | Homepage: http://d.ucsd.edu/srk | Email: srk@ucsd.edu | Office: Atkinson Hall 6302",
+			"imageURL": "http://d.ucsd.edu/srk/images/scott-2014.jpg"			
 		},
 		{
-			"name": "Scott Klemmer",
-			"description": "Great at sketching",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Ivan_Sutherland_at_CHM.jpg"			
+			"name": "David Kirsh",
+			"description": "",
+			"imageURL": ""			
 		},
 		{
 			"name": "Douglas A Nitz",
-			"description": "Loves Trukese navigators",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/d/df/Lucy_Suchman.jpeg"			
+			"description": "",
+			"imageURL": ""			
 		},
 		{
 			"name": "Jaime Pineda",
-			"description": "Has stellar associative memory",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg"			
+			"description": "",
+			"imageURL": ""			
 		},
 		{
 			"name": "Bradley Voytek",
-			"description": "Only friend with a Navy ship named after them",
+			"description": "",
 			"imageURL": ""
 		},
 		{
 			"name": "Angela J. Yu",
-			"description": "Really into psychology",
+			"description": "",
 			"imageURL": ""
 		}
 	]

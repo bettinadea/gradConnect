@@ -10,7 +10,7 @@ $(document).ready(function() {
  */
 function initializePage() {
 	console.log("Javascript connected!");
-	$(".professor").click(professorClick);
+	$(".thumbnail").click(professorClick);
 }
 
 function professorClick(e) {
