@@ -18,9 +18,7 @@ function graduateClick(e) {
     
     var containingProject = $(this).closest(".graduate");
     var description = $(containingProject).find(".graduate-description");
-    if (description.length == 0) {
-       $(containingProject).append("<div class='graduate-description'><p>{{description}}</p></div>");
-    } else if(description.is(':visible')) {
+    if(description.is(':visible')) {
        description.fadeOut();
     } else {
        description.fadeIn();

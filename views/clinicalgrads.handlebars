@@ -25,12 +25,12 @@
 		<div class="jumbotron">
 			<h1>Clinical Cognition Graduates</h1>
 		</div>
-		{{#each professors}}
-			<div class="professor" id="{{id}}">
+		{{#each graduates}}
+			<div class="graduate" id="{{id}}">
 				<a href="#" class="thumbnail">
 					<img src="{{imageURL}}" class="img-responsive"></img>
 					<h3>{{name}}</h3>
-					<div class='professor-description' visibility: hidden><p>{{description}}</p></div>
+					<div class='graduate-description' visibility: hidden><p>{{description}}</p></div>
 				</a>
 			</div>
 		{{/each}}
@@ -38,6 +38,6 @@
 
 	<script src="js/jquery-1.11.0.js"></script>
 	<script src="js/bootstrap.js"></script>
-	<script src="js/professor.js"></script>
+	<script src="js/graduate.js"></script>
 </body>
 </html>
