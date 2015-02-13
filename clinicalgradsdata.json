@@ -1,34 +1,9 @@
 {
 	"graduates": [
 		{
-			"name": "Doug Engelbart",
-			"description": "Has awesome pet mice",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/972px-Douglas_Engelbart_in_2008.jpg"			
-		},
-		{
-			"name": "Ivan Sutherland",
-			"description": "Great at sketching",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Ivan_Sutherland_at_CHM.jpg"			
-		},
-		{
-			"name": "Lucy Suchman",
-			"description": "Loves Trukese navigators",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/d/df/Lucy_Suchman.jpeg"			
-		},
-		{
-			"name": "Vannevar Bush",
-			"description": "Has stellar associative memory",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg"			
-		},
-		{
-			"name": "Grace Hopper",
-			"description": "Only friend with a Navy ship named after them",
-			"imageURL": ""
-		},
-		{
-			"name": "Angela J. Yu",
-			"description": "Really into psychology",
-			"imageURL": ""
+			"name": "Adam P. Mekrut",
+			"description": "Graduate Student | Email: apmekrut@ucsd.edu | Office: CSB 234",
+			"imageURL": "https://scontent-b-lax.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1888643_10101047830670977_1185973090_n.jpg?oh=6253d6cb7717cc273f604f939a1515a4&oe=5553C0CD"			
 		}
 	]
 }

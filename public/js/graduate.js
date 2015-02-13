@@ -10,7 +10,7 @@ $(document).ready(function() {
  */
 function initializePage() {
 	console.log("Javascript connected!");
-	$(".graduate").click(graduateClick);
+	$(".thumbnail").click(graduateClick);
 }
 
 function graduateClick(e) {
