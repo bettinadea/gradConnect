@@ -1,22 +1,38 @@
 <!doctype html>
 
 <html>
-	<head>
-		<title>Grad Connect</title></br></br>
-	</head>
-	
-	<body>
-	<form action="/">
-		<input type="submit" value="Home Page">
-	</form>
-	<center>
+<head>
+	<title>Grad Connect</title>
+	<link rel="stylesheet" href="css/bootstrap-theme.css" />
+	<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/choice.css" />
+</head>
+
+<body>
+	<div class="dropdown">
+		<a class="dropdown-toggle" data-toggle="dropdown" href="#">Menu<b class="caret"></b></a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+			<li><a href="/">Home</a></li>
+			<li><a href="clinicalcognitionchoice">Clinical Cognition</a></li>
+			<li><a href="computationchoice">Computation</a></li>
+			<li><a href="humancognitionchoice">Human Cognition</a></li>
+			<li><a href="hcichoice">HCI</a></li>
+			<li><a href="neurosciencechoice">Neuroscience</a></li>
+		</ul>
+	</div>
+
+	<div class="jumbotron">
 		<h1>HCI</h1>
-		<div style="width: 20%;">
+	</div>
+
+	<center>
 		<ul>
 			<li><a href="hcigrads">Grad Students</a></li>
 			<li><a href="hciprofessors">Professors</a></li>
 		</ul>
-		</div>
 	</center>
-	</body>
+
+	<script src="js/jquery-1.11.0.js"></script>
+	<script src="js/bootstrap.js"></script>
+</body>
 </html>

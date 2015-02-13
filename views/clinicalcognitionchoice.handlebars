@@ -2,16 +2,24 @@
 
 <html>
 <head>
-	<title>Grad Connect</title></br></br>
+	<title>Grad Connect</title>
 	<link rel="stylesheet" href="css/bootstrap-theme.css" />
 	<link rel="stylesheet" href="css/bootstrap.css" />
-	<link rel="stylesheet" href="css/clinicalcognitionchoice.css" />
+	<link rel="stylesheet" href="css/choice.css" />
 </head>
 	
 <body>
-	<form action="/">
-		<input type="submit" value="Home Page">
-	</form>
+	<div class="dropdown">
+		<a class="dropdown-toggle" data-toggle="dropdown" href="#">Menu<b class="caret"></b></a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+			<li><a href="/">Home</a></li>
+			<li><a href="clinicalcognitionchoice">Clinical Cognition</a></li>
+			<li><a href="computationchoice">Computation</a></li>
+			<li><a href="humancognitionchoice">Human Cognition</a></li>
+			<li><a href="hcichoice">HCI</a></li>
+			<li><a href="neurosciencechoice">Neuroscience</a></li>
+		</ul>
+	</div>
 
 	<div class="jumbotron">
 		<h1>Clinical Cognition</h1>
@@ -24,8 +32,7 @@
 		</ul>
 	</center>
 
-	<script src="js/jquery-1.11.0.js" />
-	<script src="js/bootstrap.js" />
-	<script src="routes/clinicalcognitionchoice.js" />
+	<script src="js/jquery-1.11.0.js"></script>
+	<script src="js/bootstrap.js"></script>
 </body>
 </html>
