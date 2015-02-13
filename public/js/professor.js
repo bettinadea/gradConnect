@@ -15,14 +15,12 @@ function initializePage() {
 
 function professorClick(e) {
 	e.preventDefault();
-    
-    var containingProject = $(this).closest(".professor");
-    var description = $(containingProject).find(".professor-description");
-    if (description.length == 0) {
-       $(containingProject).append("<div class='professor-description'><p>{{description}}</p></div>");
-    } else if(description.is(':visible')) {
-       description.fadeOut();
-    } else {
-       description.fadeIn();
-    }
+ 
+  var containingProject = $(this).closest(".professor");
+  var description = $(containingProject).find(".professor-description");
+  if(description.is(':visible')) {
+     description.fadeOut();
+  } else {
+     description.fadeIn();
+  }
 }
