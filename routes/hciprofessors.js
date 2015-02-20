@@ -1,5 +1,5 @@
  // Get all of our friend data
-var data = require('../clinicalprofessorsdata.json');
+var data = require('../hciprofessorsdata.json');
 
 exports.view = function(req, res){
 	console.log(data);
