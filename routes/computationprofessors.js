@@ -3,5 +3,5 @@ var data = require('../computationprofessorsdata.json');
 
 exports.view = function(req, res){
 	console.log(data);
-	res.render('clinicalprofessors', data);
+	res.render('computationprofessors', data);
 };

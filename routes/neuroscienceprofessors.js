@@ -3,5 +3,5 @@ var data = require('../neuroscienceprofessorsdata.json');
 
 exports.view = function(req, res){
 	console.log(data);
-	res.render('clinicalprofessors', data);
+	res.render('neuroscienceprofessors', data);
 };
