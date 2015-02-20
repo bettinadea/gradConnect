@@ -1,16 +1,24 @@
 {
 	"professors": [
 		{
-			"name": "Benjamin K. Bergen"
+			"name": "Benjamin K. Bergen",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Seana Coulson"
+			"name": "Seana Coulson",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Marta Kutas"
+			"name": "Marta Kutas",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Sarah Creel"
-		},
+			"name": "Sarah Creel",
+			"description": "",
+			"imageURL": ""
+		}
 	]
 }

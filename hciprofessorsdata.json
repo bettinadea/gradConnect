@@ -1,11 +1,15 @@
 {
 	"professors": [
 		{
-			"name": "David Kirsh"
+			"name": "David Kirsh",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Scott Klemmer"
-		},
+			"name": "Scott Klemmer",
+			"description": "",
+			"imageURL": ""
+		}
 	]
 
 }

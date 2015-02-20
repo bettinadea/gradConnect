@@ -1,16 +1,24 @@
 {
 	"professors": [
 		{
-			"name": "Rafael Nunez"
+			"name": "Rafael Nunez",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Lera Boroditsky"
+			"name": "Lera Boroditsky",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Gedeon Deak"
+			"name": "Gedeon Deak",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Terry Jernigan"
-		},
+			"name": "Terry Jernigan",
+			"description": "",
+			"imageURL": ""
+		}
 	]
 }

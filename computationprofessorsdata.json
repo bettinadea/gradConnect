@@ -1,19 +1,29 @@
 {
 	"professors": [
 		{
-			"name": "Virginia de Sa"
+			"name": "Virginia de Sa",
+			"description": "",
+			"imageURL": ""	
 		},
 		{
-			"name": "Eran Mukamel"
+			"name": "Eran Mukamel",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Angela J.Yu"
+			"name": "Angela J.Yu",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Bradley Voytek"
+			"name": "Bradley Voytek",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Zhuowen Tu"
+			"name": "Zhuowen Tu",
+			"description": "",
+			"imageURL": ""
 		}
 	]
 

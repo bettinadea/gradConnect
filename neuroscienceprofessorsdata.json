@@ -1,13 +1,19 @@
 {
 	"professors": [
 		{
-			"name": "Douglas A Nitz"
+			"name": "Douglas A Nitz",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Jaime Pineda"
+			"name": "Jaime Pineda",
+			"description": "",
+			"imageURL": ""
 		},
 		{
-			"name": "Ayse P.Saygin"
+			"name": "Ayse P.Saygin",
+			"description": "",
+			"imageURL": ""
 		}
 	]
 
