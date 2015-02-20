@@ -24,6 +24,7 @@ var humancognitionprofessors = require('./routes/humancognitionprofessors');
 var neurosciencechoice = require('./routes/neurosciencechoice');
 var neurosciencegrads = require('./routes/neurosciencegrads');
 var neuroscienceprofessors = require('./routes/neuroscienceprofessors');
+var discussion = require('./routes/discussion');
 
 // Example route
 // var user = require('./routes/user');
@@ -67,6 +68,7 @@ app.get('/humancognitiongrads', humancognitiongrads.view);
 app.get('/neurosciencechoice', neurosciencechoice.view);
 app.get('/neuroscienceprofessors', neuroscienceprofessors.view);
 app.get('/neurosciencegrads', neurosciencegrads.view);
+app.get('/discussion', discussion.view);
 // Example route
 // app.get('/users', user.list);
 

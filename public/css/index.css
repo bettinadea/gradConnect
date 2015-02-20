@@ -19,10 +19,12 @@ a {
 
 p {
 	text-align: center;
+	color: black;
 }
 
 h3 {
 	text-align: center;
+	color: black;
 }
 
 .container {
@@ -46,4 +48,8 @@ h3 {
 	 padding: 20px;
 	 background: url("http://www.bhmpics.com/wallpapers/blue_mountains_lake_landscape-1920x1200.jpg");
 	 opacity:0.5;
+}
+
+.btn {
+	width: 200px;
 }

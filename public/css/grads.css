@@ -38,3 +38,7 @@ ul {
      position: absolute;
      z-index: -1;	
 }
+
+iframe {
+    width: 100%;
+}
