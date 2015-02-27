@@ -3,17 +3,21 @@
 		{
 			"name": "Douglas A Nitz",
 			"description": "",
-			"imageURL": ""
+			"website": "http://dnitz.com/#home",
+			"imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_271.thumbnail.jpeg"
 		},
 		{
 			"name": "Jaime Pineda",
 			"description": "",
-			"imageURL": ""
+			"website": "http://cognitiveneurolab.ucsd.edu/Home.html",
+			"imageURL": "http://www.brainsinternational.com/default/assets/Image/jaimepinedasm.jpg"
 		},
 		{
 			"name": "Ayse P.Saygin",
 			"description": "",
-			"imageURL": ""
+			"website":"http://sayginlab.ucsd.edu/",
+			"imageURL": "https://quote.ucsd.edu/sayginlab/files/2013/06/Photo1.jpg
+"
 		}
 	]
 

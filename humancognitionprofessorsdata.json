@@ -3,22 +3,26 @@
 		{
 			"name": "Rafael Nunez",
 			"description": "",
-			"imageURL": ""
+			"website": "http://www.cogsci.ucsd.edu/~nunez/web/index.html",
+			"imageURL": "http://www.cogsci.ucsd.edu/~nunez/web/rafaelNunez.jpg"
 		},
 		{
 			"name": "Lera Boroditsky",
 			"description": "",
-			"imageURL": ""
+			"website": "http://lera.ucsd.edu/",
+			"imageURL": "http://lera.ucsd.edu/images/lera1a.jpg"
 		},
 		{
 			"name": "Gedeon Deak",
 			"description": "",
-			"imageURL": ""
+			"website": "http://cogdevlab.ucsd.edu/",
+			"imageURL": "http://cogdevlab.ucsd.edu/files/2013/12/headshot3_7-29-13_edited.png"
 		},
 		{
 			"name": "Terry Jernigan",
 			"description": "",
-			"imageURL": ""
+			"website": "http://www.cogsci.ucsd.edu/~jernigan/",
+			"imageURL": "http://www.cogsci.ucsd.edu/~jernigan/TJernigan-cogsci-webpage_files/image003.jpg"
 		}
 	]
 }

@@ -25,7 +25,7 @@
 <body>
 	<center>
 		<div class="jumbotron">
-			<h1>Clinical Cognition Professors</h1>
+			<h1>Computation Professors</h1>
 		</div>
 		{{#each professors}}
 			<div class="professor" id="{{id}}">
@@ -34,7 +34,9 @@
 					<h3>{{name}}</h3>
 				</a>
 				<div class='professor-description' visibility: hidden>
-					<p>{{description}}</p>
+					<p>Website: {{website}}</p>
+					<p>Get to know this professor through a <a href="/computationgrads" class="btn btn-primary" target="_blank">grad student</a>
+
 					<a href="http://whenisgood.net/Create" class="btn btn-primary" target="_blank">Create a schedule!</a>
 				</div>
 			</div>

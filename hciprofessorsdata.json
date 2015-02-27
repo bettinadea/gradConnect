@@ -3,12 +3,20 @@
 		{
 			"name": "David Kirsh",
 			"description": "",
-			"imageURL": ""
+			"website":"http://adrenaline.ucsd.edu/kirsh/",
+			"imageURL": "http://www.randomdance.org/images/dk_headshot_bellagio_1_0.jpg"
 		},
 		{
 			"name": "Scott Klemmer",
 			"description": "",
-			"imageURL": ""
+			"website":"http://d.ucsd.edu/srk/",
+			"imageURL": "http://d.ucsd.edu/srk/images/scott-2014.jpg"
+		},
+		{
+			"name": "Jim Hollan",
+			"desccription": "",
+			"website": "http://hci.ucsd.edu/hollan/",
+			"imageURL": "http://www.jacobsschool.ucsd.edu/uploads/news_release/2004/magick_LISAHollan1.jpg"
 		}
 	]
 

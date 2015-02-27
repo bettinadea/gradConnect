@@ -1,34 +1,27 @@
 {
 	"professors": [
 		{
-			"name": "Scott Klemmer",
+			"name": "Benjamin K. Bergen",
 			"description": "Associate Professor | Homepage: http://d.ucsd.edu/srk | Email: srk@ucsd.edu | Office: Atkinson Hall 6302",
-			"imageURL": "http://d.ucsd.edu/srk/images/scott-2014.jpg"			
+			"website": "http://www.cogsci.ucsd.edu/~bkbergen/",
+			"imageURL": "http://www.cogsci.ucsd.edu/~bkbergen/bergen_web.jpg"			
 		},
 		{
-			"name": "David Kirsh",
+			"name": "Seana Coulson",
 			"description": "",
-			"imageURL": ""			
+			"website":"http://www.cogsci.ucsd.edu/~coulson/index.html",
+			"imageURL": "http://www.cogsci.ucsd.edu/media/img/alumni/photo_19.jpeg"			
 		},
 		{
-			"name": "Douglas A Nitz",
+			"name": "Marta Kutas",
 			"description": "",
-			"imageURL": ""			
+			"website":"http://kutaslab.ucsd.edu/people/kutas/",
+			"imageURL": "http://kutaslab.ucsd.edu/people/kutas/images/marta_255x350.jpg"			
 		},
 		{
-			"name": "Jaime Pineda",
+			"name": "Sarah Creel",
 			"description": "",
-			"imageURL": ""			
-		},
-		{
-			"name": "Bradley Voytek",
-			"description": "",
-			"imageURL": ""
-		},
-		{
-			"name": "Angela J. Yu",
-			"description": "",
-			"imageURL": ""
+			"website":"https://quote.ucsd.edu/creel/",
+			"imageURL": "http://www.newmommymedia.com/wp-content/uploads/2013/11/PS-experts-creel.jpg"			
 		}
-	]
 }
