@@ -3,5 +3,5 @@ var data = require('../clinicalgradsdata.json');
 
 exports.view = function(req, res){
 	console.log(data);
-	res.render('clinicalgrads', data);
+	res.render('hcigrads', data);
 };
