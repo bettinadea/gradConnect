@@ -42,3 +42,8 @@ ul {
 iframe {
     width: 100%;
 }
+
+.boxed {
+    border: 1px solid green;
+    text-align: center;
+}
