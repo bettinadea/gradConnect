@@ -1,9 +1,19 @@
 {
 	"graduates": [
 		{
-			"name": "Adam P. Mekrut",
-			"description": "Graduate Student | Email: apmekrut@ucsd.edu | Office: CSB 234",
-			"imageURL": "https://scontent-b-lax.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1888643_10101047830670977_1185973090_n.jpg?oh=6253d6cb7717cc273f604f939a1515a4&oe=5553C0CD"			
-		}
+            "name": "Conor Fryet",
+            "description": "Graduate Student | Creel",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_354.thumbnail.png"        
+        },
+        {
+            "name": "Rachel Bristol",
+            "description": "Graduate Student | Cousel",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_460.thumbnail.jpeg"           
+        },
+        {
+            "name": "Daniel Frost",
+            "description": "Graduate Student | Kutas",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_355.thumbnail.jpeg"           
+        }
 	]
 }

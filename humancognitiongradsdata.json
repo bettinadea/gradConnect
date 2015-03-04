@@ -1,0 +1,19 @@
+{
+	"graduates": [
+		{
+            "name": "Lucas M Chang",
+            "description": "Graduate Student | Deak",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_439.thumbnail.jpeg"           
+        },
+        {
+            "name": "Rose K Hendricks",
+            "description": "Graduate Student | Lera",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_440.thumbnail.jpeg"           
+        },
+        {
+            "name": "Lauren B Curley",
+            "description": "Graduate Student | Terry",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_400.thumbnail.jpeg"           
+        }
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"graduates": [
+		{
+            "name": "Adam Rule",
+            "description": "Graduate Student | Kirsh",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_441.thumbnail.jpeg"           
+        },
+        {
+            "name": "Larry  Muhlstein",
+            "description": "Graduate Student | Kirsh",
+            "imageURL": "https://scontent-sjc.xx.fbcdn.net/hphotos-xpa1/t31.0-8/r270/10397290_10152602311912238_2881816922766784486_o.jpg"         
+        }
+	]
+}

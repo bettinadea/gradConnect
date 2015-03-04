@@ -1,0 +1,19 @@
+{
+    "graduates": [
+        {
+            "name": "Alvin X.Li",
+            "description": "Graduate Student | Ayse",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_394.thumbnail.jpeg"           
+        },
+        {
+            "name": "Andy Alexander",
+            "description": "Graduate Student | Nitz",
+            "imageURL": "http://www.cogsci.ucsd.edu/media/img/people/picture_353.thumbnail.jpeg"           
+        },
+        {
+            "name": "Michael Datko",
+            "description": "Graduate Student | Pineda",
+            "imageURL": "https://0.academia-photos.com/493476/168947/4228494/s200_mike.datko.png"          
+        }
+    ]
+}
