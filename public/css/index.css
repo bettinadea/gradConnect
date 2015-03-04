@@ -2,7 +2,7 @@ h1 {
 	text-align: center;
 	color: #00003D;
 	font-style: italic;
-	font-size: 100px;
+	font-size: 80px;
 }
 
 ul {
@@ -11,6 +11,7 @@ ul {
 	text-align: center;
 	font-size: 20px;
 	padding: 0;
+	position: center;
 }
 
 a {

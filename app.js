@@ -25,6 +25,7 @@ var neurosciencechoice = require('./routes/neurosciencechoice');
 var neurosciencegrads = require('./routes/neurosciencegrads');
 var neuroscienceprofessors = require('./routes/neuroscienceprofessors');
 var discussion = require('./routes/discussion');
+var faq = require('./routes/faq');
 
 // Example route
 // var user = require('./routes/user');
@@ -69,6 +70,7 @@ app.get('/neurosciencechoice', neurosciencechoice.view);
 app.get('/neuroscienceprofessors', neuroscienceprofessors.view);
 app.get('/neurosciencegrads', neurosciencegrads.view);
 app.get('/discussion', discussion.view);
+app.get('/faq', faq.view);
 // Example route
 // app.get('/users', user.list);
 
