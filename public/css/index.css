@@ -6,7 +6,7 @@ h1 {
 }
 
 ul {
-	width: 20%;
+	width: max-width;
 	list-style-type: none;
 	text-align: center;
 	font-size: 20px;

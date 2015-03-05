@@ -10,13 +10,13 @@ $(document).ready(function() {
  */
 function initializePage() {
 	// add any functionality and listeners you want here
-  console.log("init");
-  $(".version_a").click(function(e){
+
+  $("#version_a").click(function(){
     //add your Woopra tracking code for version A's like button click event
     woopra.track("a_version_faq_click");
   })
 
-  $(".version_b").click(function(e){
+  $("#version_b").click(function(){
     //add your Woopra tracking code for version A's like button click event
     woopra.track("b_version_faq_click");
   })
