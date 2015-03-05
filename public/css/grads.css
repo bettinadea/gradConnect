@@ -1,5 +1,6 @@
 h1 {
 	text-align: center;
+    font-style: Times;
 	font-size: 30px;
 }
 
@@ -23,13 +24,13 @@ ul {
 	position: relative;
 	background: none;
     text-align: center;
-    font-style: italic;
-    color: #467F7E;
+    font-style: Times;
+    color: #000033;
 }
 
 .jumbotron:after {
      content:"";
-     background: url("http://ucsd.edu/timeline/images/campus-timeline.jpg");
+     background: url("https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/11025876_671910082937926_1171499603950842202_o.jpg");
      opacity: 0.5;
      top: 0;
      left: 0;

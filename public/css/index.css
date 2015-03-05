@@ -1,7 +1,7 @@
 h1 {
 	text-align: center;
-	color: #00003D;
-	font-style: italic;
+	color: #000033;
+	font-style: Times;
 	font-size: 80px;
 }
 
@@ -47,7 +47,7 @@ h3 {
 	 width: 100%;
 	 height: 100%;
 	 padding: 20px;
-	 background: url("http://www.bhmpics.com/wallpapers/blue_mountains_lake_landscape-1920x1200.jpg");
+	 background: url("https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/11025876_671910082937926_1171499603950842202_o.jpg");
 	 opacity:0.5;
 }
 
